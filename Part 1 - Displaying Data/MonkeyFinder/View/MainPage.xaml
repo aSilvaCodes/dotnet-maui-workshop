@@ -37,6 +37,7 @@
                                            Style="{StaticResource LargeLabel}"/>
                                     <Label Text="{Binding Location}" 
                                            Style="{StaticResource MediumLabel}"/>
+                                    
                                 </VerticalStackLayout>
                             </Grid>
                         </Frame>
